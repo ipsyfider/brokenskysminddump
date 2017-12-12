@@ -27,3 +27,19 @@ h5 {
     font-family: 'Montserrat', sans-serif;
     font-size: 115;
 }
+a:link {
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+}
+a:visited {
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover {
+    color: powderblue;
+    font-family: 'Montserrat', sans-serif;
+}
+a:active {
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+}
