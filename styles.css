@@ -21,25 +21,14 @@ h3 {
 h4 {
     color: black;
     font-family: 'Montserrat', sans-serif;
-    font-size: 150;
+    font-size: 150%;
 h5 {
     color: black;
     font-family: 'Montserrat', sans-serif;
-    font-size: 115;
+    font-size: 115%;
 }
-a:link {
+a {
     color: blue;
     font-family: 'Montserrat', sans-serif;
-}
-a:visited {
-    color: green;
-    font-family: 'Montserrat', sans-serif;
-}
-a:hover {
-    color: powderblue;
-    font-family: 'Montserrat', sans-serif;
-}
-a:active {
-    color: green;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
 }
