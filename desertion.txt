@@ -1,12 +1,4 @@
-<html>
-  <head>
-    <title>Warriors: 1,000 Years Later: Desertion</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-    <a href="./warriors1000yrslater.html">←Back</a>
-    <h1>Read Warriors: 1,000 Years Later: Desertion</h1>
-    <p>Thunder Clan
+Thunder Clan
 
 Leader:
 Roaringstar - Broad-shouldered tawny tom-cat
@@ -41,25 +33,26 @@ Bravekit - White she-kit with a black chest
 Brokenkit - Leopard spotted tom-kit with paralyzed back legs
 Cloverkit - Spunky calico tom-kit
 
-Shadow Clan:
+Shadow Clan
+
 Leader:
 Leafstar - Lilac tabby tom-cat
       
 Deputy:
 Foxpool - Flame colored she-cat with white paws and tail tip
       
-Wind Clan:
+Wind Clan
+
 Leader:
 Redstar - Cinnamon colored she-cat
       
 Deputy:
 Silvernose - Shiny grey tom
 
-River Clan:
+River Clan
+
 Leader:
 Lionstar - Huge tom with apricot fur and a ginger mane
       
 Deputy:
 Pigeoneyes - Blue-cream tortie she-cat with blue left eye and green right eye</p>
-  </body>
-</html>
