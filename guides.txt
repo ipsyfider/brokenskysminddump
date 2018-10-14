@@ -8,3 +8,6 @@ html template:
 
 image:
 <img src="./example.jpg" alt="Example hovering text">
+
+link:
+<a href="./examplepage.html">Example Header</a>
