@@ -7,3 +7,4 @@ html template:
 </html>
 
 image:
+<img src="./example.jpg" alt="Example hovering text">
