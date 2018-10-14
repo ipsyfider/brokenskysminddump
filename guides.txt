@@ -1,1 +1,9 @@
+html template:
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+</html>
 
+image:
